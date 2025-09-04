@@ -266,8 +266,8 @@
         <mxCell id="2wAls1v3KQ-42HdzJ8gy-28" value="机台FTP从共享文件夹获取NC文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="577" y="212" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2wAls1v3KQ-42HdzJ8gy-30" value="拷贝程式文件到共享文件夹" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="617" y="360" width="170" height="30" as="geometry" />
+        <mxCell id="2wAls1v3KQ-42HdzJ8gy-30" value="拷贝修改后的程式文件到共享文件夹" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="607" y="390" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2wAls1v3KQ-42HdzJ8gy-31" value="根据&lt;font style=&quot;color: light-dark(rgb(85, 192, 255), rgb(255, 255, 255));&quot;&gt;程式号&lt;/font&gt;去共享文件夹查找NC程式文件&lt;div&gt;获取对应NC文件后读取NC文件中的信息&lt;br&gt;&lt;div&gt;(DesignUser:HGYD003)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;(MachineUser:HGY007)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;(MachineTime:11.92)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(DrawingNo:C00404-37279A)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="352" width="256" height="30" as="geometry" />
@@ -279,13 +279,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2wAls1v3KQ-42HdzJ8gy-33" value="鸿冠钇新增操作步骤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="657" y="330" width="130" height="30" as="geometry" />
+          <mxGeometry x="697" y="330" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2wAls1v3KQ-42HdzJ8gy-34" value="内网网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="279" y="252" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2wAls1v3KQ-42HdzJ8gy-38" value="鸿冠钇新增操作步骤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="657" y="182" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2wAls1v3KQ-42HdzJ8gy-39" value="修改程式文件中的员工工号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="657" y="360" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
